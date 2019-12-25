@@ -15,21 +15,28 @@
 
 
 .myNav{
-    background: #ebebeb;
+   background-image: url("../DopeObsidian.jpg");
+   border-style: inset;
     width: 100%;
     margin-bottom: 10px;
     text-align: right;
-  
     height: 100px;
     line-height: 85px;
     position: fixed;
+    
 
 
 }
+.navphoto{
+   height: 100px;
+   width:100%;
+   
+}
 
 .about{
+   background-image: url("../DopeObsidian.jpg");
     margin-top: 0px;
-    background: #ebebeb;
+    border-style: inset ;
     padding: 30px;
     float: center;
     width: 900px;
@@ -38,9 +45,13 @@
     text-align: center;
 }
  .aboutheader{
-
+   background-image: url("../DopeObsidian.jpg");
     margin-top: 200px;
-    background: #ebebeb;
+    border-style: inset ;
+   
+   
+   border-bottom-style: none;
+    
     padding: 30px;
     padding-left: 0px;
    margin-right: 200px;
@@ -56,6 +67,7 @@
 .alllinks{
  
     margin-right: 100px;
+    margin-top: 0px;
 }
 .link1{
     margin-left: 20px;
