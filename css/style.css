@@ -11,6 +11,9 @@
 
 
 }
+#background-image{
+   z-index: 0;
+}
 
 .Menu{
    color: lightgrey;
@@ -26,6 +29,7 @@
     height: 100px;
     line-height: 85px;
     position: fixed;
+    z-index: 100;
     
 
 
@@ -45,6 +49,7 @@
    
 }
 
+
 .about{
    background-image: url("../DopeObsidian.jpg");
     margin-top: 0px;
@@ -55,6 +60,7 @@
     height: 400px;
    color: lightgrey;
     text-align: left;
+  
     
 }
 .mobileabout{
@@ -78,6 +84,7 @@ height: 150px;
 }
 #P{
 color: lightgrey;
+z-index: 50;
 }
 #W{
 color: lightgrey;
@@ -88,7 +95,7 @@ color: lightgrey;
 .gitlink{
    border-style: inset;
    margin-top: 50px;
-   margin-left: -250px;
+   margin-left: -275px;
    background-color: black;
    height: 100px;
    width: 200px;
