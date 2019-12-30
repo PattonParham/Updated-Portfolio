@@ -35,6 +35,15 @@
    width:100%;
    
 }
+.profpic{
+   margin-left: -14px;
+  border-style: inset;
+   margin-top: -20px;
+   width: 203.5px;
+   height: 139.333333px;
+  
+   
+}
 
 .about{
    background-image: url("../DopeObsidian.jpg");
@@ -45,7 +54,97 @@
     width: 900px;
     height: 400px;
    color: lightgrey;
-    text-align: center;
+    text-align: left;
+    
+}
+.mobileabout{
+   background-image: url("../DopeObsidian.jpg");
+   margin-top: 0px;
+   border-style: inset ;
+   padding: 30px;
+   float: center;
+   width: 900px;
+   height: 400px;
+  color: lightgrey;
+   text-align: left;
+}
+.passgengif{
+width: 200px;
+height: 150px;
+}
+.weathergif{
+width: 200px;
+height: 150px;
+}
+#P{
+color: lightgrey;
+}
+#W{
+color: lightgrey;
+}
+#T{
+color: lightgrey;
+}
+.gitlink{
+   border-style: inset;
+   margin-top: 50px;
+   margin-left: -250px;
+   background-color: black;
+   height: 100px;
+   width: 200px;
+}
+.git{
+   margin-left: 27px;
+   margin-top: 27px;
+   
+}
+#gitlink{
+   color: lightgrey;
+}
+
+
+.E{
+width: 800px;
+}
+
+.submitbtn{
+background-color: black;
+color: lightgrey;
+width: 200px;
+height: 100px;
+
+
+}
+.btnborder{
+   border-style: inset;
+   width: 200px;
+   height: 100px;
+   margin-left: -12px;
+   margin-top: -7px;
+}
+.btntext{
+margin-top: 35px;
+
+}
+.brandy
+.brandbox{
+background-color: black;
+height: 50px;
+border-style: inset;
+}
+.brandtext{
+   
+   margin-top: -20px;
+}
+.textbox{
+   background-color: black;
+margin-left: -15px;
+border-style: inset;
+}
+
+.abouttext{
+margin-left: 10px;
+margin-top: 10px;
 }
  .aboutheader{
    background-image: url("../DopeObsidian.jpg");
